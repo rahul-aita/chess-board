@@ -1,0 +1,10 @@
+.col-1{
+    border: 8px solid rgb(199, 97, 0);
+    width: 164px;
+    height: 7rem;
+    background-color: rgb(234, 194, 109);
+    /* background-color:rgb(96, 13, 8) ; */
+}
+div.container>row:nth-of-type(odd) {
+    background:  rgb(234, 194, 109);
+  }
